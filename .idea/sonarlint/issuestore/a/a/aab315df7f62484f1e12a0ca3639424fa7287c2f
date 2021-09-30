@@ -1,0 +1,10 @@
+
+x
+java:S1104"]Make numberOfFollowers a static final constant or non-public and provide accessors if needed.(•òøùÿÿÿÿ
+t
+java:S1104"YMake numberOfPosts a static final constant or non-public and provide accessors if needed.(šÜ—°ıÿÿÿÿ
+x
+java:S1104"]Make numberOfFollowing a static final constant or non-public and provide accessors if needed.(§öÈÿüÿÿÿÿ
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øş±,
+V	java:S125:"<This block of commented-out lines of code should be removed.(ÄµòÕûÿÿÿÿ

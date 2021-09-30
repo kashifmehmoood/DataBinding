@@ -1,0 +1,15 @@
+
+r
+java:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(½±õğúÿÿÿÿ
+v
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ
+F
+java:S1172u"+Remove this unused method parameter "view".(Æ¯½®ÿÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "view".(û‘²Äùÿÿÿÿ
+G
+java:S1172…"+Remove this unused method parameter "view".(™¡Ş£üÿÿÿÿ
+B
+java:S1172‰"+Remove this unused method parameter "view".(ã‚á¯
+G
+java:S1172"+Remove this unused method parameter "view".(ª“­õøÿÿÿÿ
